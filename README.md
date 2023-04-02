@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xZORNYx
-- 👀 I am interested in programming, AI and web development.
+- 👀 I am interested in programming, data analysis and web development.
 - 📚 I currently study in a computer science school in switzerland
 - 📫 Reach me on my on Discord : ZORNY -_-#0111
