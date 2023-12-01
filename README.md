@@ -1,8 +1,8 @@
 # Hey, I'm ZORNY 👋 
 
 - 📚 I currently study int the [EPTM](https://www.eptm.ch) which is a computer science school in switzerland.
-- 🖥️ I'm currently in my third year of study and interested in development as ever.
-- 👀 I love programming, I am especially interested in low level system development and web.
+- 🖥️ I'm in my third year of study and interested in development as ever.
+- 👀 I love programming, I am especially into low level system development & embedded devices.
 
 
 ## ⌛ What do I spend my time on
