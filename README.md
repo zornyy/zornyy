@@ -10,9 +10,9 @@
 void Zorny( char *dev[] ) {
     typedef struct {
         // OS
-        int *Windows
-        int *Linux {
+        int** Linux {
             bool ubuntu
+            bool alpine
             bool debian
             bool fedora
             bool arch
@@ -21,10 +21,10 @@ void Zorny( char *dev[] ) {
 
         // Languages
         int C;
+        int C++;
         int C#;
         int Python;
         int JS;
-        int C++;
 
         // Frameworks
         int React;
@@ -39,10 +39,11 @@ void Zorny( char *dev[] ) {
 
 ## 📚 Languages & Techno Knowledge 
 ```txt
-C              Global Knowledge :  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   50.00 % 👴
-JS             Global Knowledge :  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   45.30 % 😏
-Python         Global Knowledge :  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   32.25 % 👶
-C#             Global Knowledge :  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜   23.75 % ⚗️
-Svelte         Global Knowledge :  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜   30.65 % ⚡
-React          Global Knowledge :  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   42.35 % 👌
+Python         Global Knowledge :  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   78.25 % 👶
+C              Global Knowledge :  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   72.20 % 👴
+JS             Global Knowledge :  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   69.30 % 😏
+React          Global Knowledge :  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   66.35 % 👌
+C++            Global Knowledge :  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜   55.65 % 👩‍🔬
+Svelte         Global Knowledge :  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜   47.65 % ⚡
+C#             Global Knowledge :  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜   23.75 % ⚗️
 ```
