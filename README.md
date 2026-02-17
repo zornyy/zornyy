@@ -42,17 +42,44 @@ My work focuses on the **frontend visualization layer** of the platform.
 
 ---
 
-## Tech Stack
-```c
-typedef struct {
-    char  *os[]    = { "Arch Linux", "Alpine", "Debian" };
-    char  *lang[]  = { "C", "JavaScript", "Python", "" };
-    char  *web[]   = { "Angular.js", "Node.js" };
-    char  *tools[] = { "Git", "Docker", "GIS", "Nvim", "zsh" };
-    bool   arch    = true; // Obviously
-} Zorny;
-```
+## 🛠️ Tech Stack
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HolyC](https://img.shields.io/badge/HolyC-C58035?style=for-the-badge&logo=holyc&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases & GIS**
+
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-4A90D9?style=for-the-badge&logo=openlayers&logoColor=white)
+
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tuleap](https://img.shields.io/badge/Tuleap-F76C5E?style=for-the-badge&logo=tuleap&logoColor=white)
+![Make](https://img.shields.io/badge/Make-A8B400?style=for-the-badge&logo=cmake&logoColor=white)
+
+**OS**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ---
 
 ## Projects
