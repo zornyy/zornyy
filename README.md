@@ -86,6 +86,9 @@ My work focuses on the **frontend visualization layer** of the platform.
 
 ### [CHIP-8 Emulator](https://github.com/zornyy/chip8) — `C`
 A CHIP-8 interpreter written from scratch in C. Implements the full CHIP-8 instruction set including display rendering, timers, and keyboard input with internal memory visualization.
+<p aligh="center">
+  <img src="https://github.com/zornyy/chip8/raw/main/screenshots/Breakout.png" alt="Chip8 Emulator" height="250"/>
+</p>
 
 ### Citiwatts Visualization Tool — `Angular.js · GIS`
 Backend dev for the [Citiwatts](https://project.citiwatts.eu) platform as well as frontend work. Built as part of the OpenGIS4ET research project at EASILab, HES-SO Valais-Wallis.
